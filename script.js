@@ -13,7 +13,7 @@ const recipes = [
     name: "🥗 chicken Salad",
     desc: "Healthy and crunchy salad with a creamy dressing.",
     link: "https://www.allrecipes.com/recipe/8499/basic-chicken-salad/"
-  }
+  },
   {
     name: "🍩 Homemade Donuts",
     desc: "Soft, fluffy donuts glazed with sugar and love.",
