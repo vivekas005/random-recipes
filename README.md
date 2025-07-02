@@ -23,9 +23,7 @@ A fun and beginner-friendly web app that suggests a random food recipe every tim
 
 ## 🎬 Live Demo
 
-👉 [Click here to try the live app](https://your-netlify-link.netlify.app)  
-_Replace with your Netlify or GitHub Pages link._
-
+👉  https://vivekas005.github.io/random-recipes/
 
 
 ---
